@@ -3,6 +3,7 @@
 ## Integrante
 - Jonathan Manquel
 - Bastian Escobar
+- Vicente Flores
 
 ## Actividades realizadas
 - Creación de repositorio en GitHub
